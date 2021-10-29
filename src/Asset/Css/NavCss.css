@@ -1,0 +1,10 @@
+.topNav{
+    position: absolute;
+}
+.brand-name{
+    font-size: 1.5rem;
+}
+.nav-item a{
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+}
